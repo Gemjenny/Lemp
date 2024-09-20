@@ -113,4 +113,12 @@ mysql> exit
 Finally, I logged in as the new user to verify the connection:
 ```bash
 mysql -u example_user -p
+
+screenshot snippets
+![Screenshot of lemp project](./lemp login.PNG)
+![Screenshot of lemp project](./ngnix .PNG)
+![Screenshot of lemp project](./nginx server.PNG)
+![Screenshot of lemp project](./nginx running.PNG)
+![Screenshot of lemp project](./lemp testing online.PNG)
+![Screenshot of lemp project](./php running.PNG)
 ```
